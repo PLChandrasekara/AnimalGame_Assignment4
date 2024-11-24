@@ -46,68 +46,40 @@ Hover Effects: Visual feedback when hovering over images.
 
 Project Structure 
 
-php 
-
-Copy code 
-
 AnimalMatchingGame/ 
 ├── public/ 
-│   ├── assets/             
+│   ├── assets/              # Animal images (e.g., 1.jpg, 2.jpg) 
 ├── src/ 
 │   ├── components/ 
-│   │   ├── AnimalTable.js   
-│   ├── AnimalsDb.js       
-│   ├── App.js          
-│   ├── index.js             
-│   ├── compo.css         
-├── README.md                
-├── package.json           
+│   │   ├── AnimalTable.js   # Core game component 
+│   ├── AnimalsDb.js         # Animal database 
+│   ├── App.js               # Main application file 
+│   ├── index.js             # React app entry point 
+│   ├── compo.css            # Styling for the game 
+├── README.md                # Documentation 
+├── package.json             # Project dependencies 
  
 
  
 
-Setup and Installation 
+Setup and Installatio 
 
-Prerequisites 
-
-Node.js (>= 14.x) 
-
-npm (or yarn) 
-
-Steps 
-
-Clone the repository: 
-
-bash 
-
-Copy code 
+Clone the repository 
 
 git clone https://github.com/your-username/animal-matching-game.git 
  
 
 Navigate to the project directory: 
 
-bash 
-
-Copy code 
-
 cd animal-matching-game 
  
 
 Install dependencies: 
 
-bash 
-
-Copy code 
-
 npm install 
  
 
 Start the development server: 
-
-bash 
-
-Copy code 
 
 npm start 
  
