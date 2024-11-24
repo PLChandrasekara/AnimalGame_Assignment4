@@ -52,16 +52,16 @@ Copy code
 
 AnimalMatchingGame/ 
 ├── public/ 
-│   ├── assets/              # Animal images (e.g., 1.jpg, 2.jpg) 
+│   ├── assets/             
 ├── src/ 
 │   ├── components/ 
-│   │   ├── AnimalTable.js   # Core game component 
-│   ├── AnimalsDb.js         # Animal database 
-│   ├── App.js               # Main application file 
-│   ├── index.js             # React app entry point 
-│   ├── compo.css            # Styling for the game 
-├── README.md                # Documentation 
-├── package.json             # Project dependencies 
+│   │   ├── AnimalTable.js   
+│   ├── AnimalsDb.js       
+│   ├── App.js          
+│   ├── index.js             
+│   ├── compo.css         
+├── README.md                
+├── package.json           
  
 
  
