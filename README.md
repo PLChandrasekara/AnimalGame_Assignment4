@@ -2,15 +2,6 @@
 
 A simple **React-based game** where users match a randomly selected animal name with its corresponding image. Perfect for practicing recognition skills while having fun!
 
- 📚 Table of Contents
-- [Overview]
-- [Features]
-- [Project Structure]
-- [Setup and Installation]
-- [How to Play]
-- [Technologies Used]
-- [File Descriptions]
-- [Future Improvements]
 
  📝 Overview
 The **Animal Matching Game** is a fun and interactive game where the user matches the name of a randomly selected animal with its corresponding image. If the guess is correct, the user wins; otherwise, they lose.
@@ -49,10 +40,10 @@ Ensure you have the following installed:
 
 ### Steps
 1. Clone this repository:
-   git clone https://github.com/yourusername/animal-matching-game.git
+   git clone (https://github.com/PLChandrasekara/AnimalGame_Assignment4.git)
  
 2. Navigate to the project folder:
-   cd animal-matching-game
+   cd Animalgame_Assignment4
 
 3. Install project dependencies:
    npm install
@@ -99,6 +90,14 @@ Ensure you have the following installed:
 - Include a timer for a more challenging gameplay experience.
 - Track the player’s score across multiple rounds.
 - Add animations or sound effects for better engagement.
+
+📷 Screenshot of the Game!
+Here’s how the game looks:
+[finaloutput](https://github.com/user-attachments/assets/91842837-0e22-475c-a85d-7219a6f6b31c)
+
+
+
+
 
 
 
